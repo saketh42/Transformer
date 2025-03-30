@@ -52,5 +52,4 @@ The goal is to build a Transformer model from scratch to understand its inner wo
 - Hugging Face & OpenAI blog posts on Transformer optimization
 
 ---
-This document serves as a roadmap for developing an LLM from scratch, ensuring structured learning and implementation.
 
